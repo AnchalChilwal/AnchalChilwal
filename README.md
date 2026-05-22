@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Anchal Chilwal,
+I'm Anchal Chilwal.
 
 A Postgraduate in Economics who is transitioning into data analyst.
 
