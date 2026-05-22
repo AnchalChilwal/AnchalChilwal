@@ -20,6 +20,6 @@ A Postgraduate in Economics who is transitioning into data analyst.
 - Storytelling
 
   🚀 Goals
-- Strengthen my data analytics and visualization skills
-- Build impactful data-driven projects
-- Apply analytical thinking to real-world business and economic problems
+- Strengthen my data analytics and visualization skills.
+- Build impactful data-driven projects.
+- Apply analytical thinking to real-world business and economic problems.
