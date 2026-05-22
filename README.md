@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Anchal Chilwal.
 
-A Postgraduate in Economics who is transitioning into data analyst.
+A Postgraduate in Economics who is transitioning into Data Analyst.
 
 - 🔭 I’m currently working on the "How" of data analysis by making real-world projects.
 - 🌱 I’m currently learning Python libraries to further enhance my analytical skills.
