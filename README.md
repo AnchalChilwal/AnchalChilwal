@@ -1,9 +1,7 @@
 ## Hi there 👋
+I'm Anchal Chilwal,
 
-I'm Anchal Chilwal, a postgraduate in Economics who is transitioning into data analyst.
-**AnchalChilwal/AnchalChilwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+A Postgraduate in Economics who is transitioning into data analyst.
 
 - 🔭 I’m currently working on the "How" of data analysis by making real-world projects.
 - 🌱 I’m currently learning Python libraries to further enhance my analytical skills.
@@ -25,4 +23,3 @@ Here are some ideas to get you started:
 - Strengthen my data analytics and visualization skills
 - Build impactful data-driven projects
 - Apply analytical thinking to real-world business and economic problems
--->
